@@ -1,2 +1,2 @@
 # hello-world
-a guide course
+this is a guide course
